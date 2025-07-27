@@ -534,10 +534,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Developer**: [Your Name]
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [Your LinkedIn]
-- **GitHub**: [@yourusername]
+- **Email**: [mustafaehab060@gmail.com.com]
+- **LinkedIn**: [www.linkedin.com/in/mustafa-ehab]
+- **GitHub**: [@MustafaEH]
 
 ---
 
