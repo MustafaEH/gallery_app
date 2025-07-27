@@ -1,0 +1,50 @@
+flutter_native_splash:
+  # Background color
+  color: "#ffffff"
+  
+  # Background image (optional)
+  # background_image: "assets/background.png"
+  
+  # Image to display in the center
+  image: assets/route_logo.png
+  
+  # Image size (optional)
+  image_size: 200
+  
+  # Image dark mode (optional)
+  image_dark: assets/route_logo.png
+  
+  # Branding (optional)
+  branding: "Photo Gallery"
+  branding_dark: "Photo Gallery"
+  
+  # Branding color (optional)
+  color_dark: "#121212"
+  branding_dark_color: "#ffffff"
+  
+  # Android 12+ support
+  android_12:
+    image: assets/route_logo.png
+    image_dark: assets/route_logo.png
+    color: "#ffffff"
+    color_dark: "#121212"
+    branding: "Photo Gallery"
+    branding_dark: "Photo Gallery"
+    branding_dark_color: "#ffffff"
+
+  
+  # Android support
+  android: true
+  
+
+  
+  # Fullscreen mode
+  fullscreen: true
+  
+  # Status bar color
+  android_gravity: center
+  ios_content_mode: center
+  
+  # Remove splash screen after initialization
+  remove_after: true
+
