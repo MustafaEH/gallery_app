@@ -521,16 +521,7 @@ The app implements comprehensive error handling:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- [Pexels API](https://www.pexels.com/api/) for providing high-quality photos
-- [Flutter Team](https://flutter.dev/) for the amazing framework
-- [flutter_bloc](https://bloclibrary.dev/) for state management
-- [Retrofit](https://pub.dev/packages/retrofit) for API client generation
 
 ## 📞 Contact
 
