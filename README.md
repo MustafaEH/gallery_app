@@ -17,29 +17,40 @@ A modern Flutter application demonstrating Clean Architecture principles with a 
 
 ## 📱 Screenshots
 
+### Splash Screen
+<img src="assets/screenshots/splash.jpg" alt="Splash Screen" width="400"/>
+<br/>
+*Native splash screen with app branding*
+
+### Loading States
+<img src="assets/screenshots/loading.jpg" alt="Loading" width="400"/>
+<br/>
+*Smooth loading indicators and placeholders*
+
 ### Main Gallery View
-![Main Gallery](screenshots/main_gallery.png)
+<img src="assets/screenshots/online-light.jpg" alt="Main Gallery" width="400"/>
+<br/>
 *Beautiful staggered grid layout with photo thumbnails*
 
 ### Dark Theme
-![Dark Theme](screenshots/dark_theme.png)
+<img src="assets/screenshots/online-dark.jpg" alt="Dark Theme" width="400"/>
+<br/>
 *Elegant dark mode with custom theming*
 
-### Offline Mode
-![Offline Mode](screenshots/offline_mode.png)
+### Offline Light Mode
+<img src="assets/screenshots/offline-light.jpg" alt="Offline Light" width="400"/>
+<br/>
 *Seamless offline experience with cached data*
 
-### Error Handling
-![Error Handling](screenshots/error_handling.png)
-*User-friendly error messages with helpful suggestions*
+### Offline Dark Mode
+<img src="assets/screenshots/offline-dark.jpg" alt="Offline Dark" width="400"/>
+<br/>
+*Seamless offline experience with cached data*
 
-### Loading States
-![Loading States](screenshots/loading_states.png)
-*Smooth loading indicators and placeholders*
 
-### Splash Screen
-![Splash Screen](screenshots/splash_screen.png)
-*Native splash screen with app branding*
+
+
+
 
 ## 🏗️ Clean Architecture Implementation
 
